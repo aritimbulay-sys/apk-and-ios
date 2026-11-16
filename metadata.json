@@ -1,0 +1,6 @@
+{
+  "name": "HotsMon",
+  "description": "Aplikasi Android responsif untuk memantau https://hotsmon.bondanglangit.com dengan dukungan push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

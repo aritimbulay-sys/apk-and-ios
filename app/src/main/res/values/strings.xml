@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HotsMon</string>
+    <string name="base_url">https://hotsmon.bondanglangit.com</string>
+    <string name="channel_alerts_id">hotsmon_alerts</string>
+    <string name="channel_alerts_name">Peringatan HotsMon</string>
+    <string name="channel_alerts_desc">Notifikasi penting saat server atau hotspot mengalami gangguan maupun pemulihan.</string>
+    <string name="channel_updates_id">hotsmon_updates</string>
+    <string name="channel_updates_name">Pembaruan Sistem</string>
+    <string name="channel_updates_desc">Notifikasi status dari dashboard web HotsMon.</string>
+    <string name="cd_notifications">Pusat Notifikasi</string>
+    <string name="cd_settings">Pengaturan Aplikasi</string>
+    <string name="cd_back">Halaman Sebelumnya</string>
+    <string name="cd_forward">Halaman Berikutnya</string>
+    <string name="cd_home">Beranda HotsMon</string>
+    <string name="cd_refresh">Muat Ulang Halaman</string>
+    <string name="cd_fullscreen">Mode Layar Penuh</string>
+    <string name="cd_exit_fullscreen">Keluar Layar Penuh</string>
+    <string name="cd_offline_illustration">Ilustrasi koneksi terputus</string>
+    <string name="cd_brand_logo">Logo HotsMon</string>
+</resources>
